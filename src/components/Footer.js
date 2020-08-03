@@ -11,7 +11,7 @@ export default function Footer() {
           egestas, purus ipsum consequat orci, sit amet lobortis lorem lacus in
           tellus. Sed ac elementum arcu. Quisque placerat auctor laoreet.
         </p>
-        <form method="post" action="/#" netlify>
+        <form method="post" action="/#">
           <div className="fields">
             <div className="field">
               <label htmlFor="name">Name</label>
